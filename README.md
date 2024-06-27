@@ -1,6 +1,6 @@
 # Silent-Speech-Recognition-using-EEG-Signals
 
-Project Overview
+# Project Overview
 This repository hosts the code, documentation, and resources for the project "Silent Speech Recognition using EEG Signals." The primary objective of this project is to develop a silent speech recognition system specifically tailored for older adults using electroencephalography (EEG) signals. This technology aims to assist individuals with speech impairments by providing an alternative method of communication.
 
 Table of Contents
